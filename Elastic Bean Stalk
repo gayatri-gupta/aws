@@ -1,15 +1,1 @@
-#Steps executed by having guidence from AWSinAction
-#Deploying a simple web application using ElasticBeanStalk
 
-1. Creating an application for aws elastic beanstalk
-
-
-
-2. Creating a version for aws elastic beanstalk
-
-
-
-3. Creating an environment to execute etherpad with elastic bean stalk
-4. Having fun etherpad
-
-5. Cleaning up : Can be done through ManagementConsole
