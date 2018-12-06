@@ -1,0 +1,8 @@
+#To know the current user by which you are using your CLI to access AWSaccount
+# Run this command
+
+$ aws iam get-user --query "User.Arn" output text
+
+#the output will look like this
+
+arn:aws:iam::(accountID):user/(username)
